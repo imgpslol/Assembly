@@ -1,0 +1,52 @@
+# Compiled binaries and objects
+*.o
+*.obj
+*.out
+*.exe
+*.elf
+*.bin
+*.hex
+*.img
+*.a
+*.so
+*.dll
+*.dylib
+
+# Debug symbols and core dumps
+*.core
+core
+core.*
+*.dSYM/
+
+# Debugger and profiling output
+*.gdb
+*.log
+*.prof
+*.gcda
+*.gcno
+
+# Build directories
+build/
+dist/
+out/
+cmake-build-*/
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*.orig
+*.rej
+
+# Generated assembly listings
+*.lst
+*.dis
